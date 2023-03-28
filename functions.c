@@ -143,7 +143,8 @@ precision, size));
 * @buffer: Buffer array to handle print
 * @flags: Calculates active flags
 * @width: get width.
-* @precision: Precision specification
+* @precision: Precision specificatio
+* @types: type specification
 * @size: Size specifier
 * Return: Numbers of char printed.
 */
